@@ -1,4 +1,7 @@
-# Identificando Habilidades que Podem ser Remuneradas
+# Identificando Habilidades Remuneráveis
+![GitHub repo size](https://img.shields.io/github/repo-size/NiklasRamon/identificando_habilidades_remuneradas)
+![GitHub stars](https://img.shields.io/github/stars/NiklasRamon/identificando_habilidades_remuneradas?style=social)
+
 
 Projeto desenvolvido como parte de um bootcamp da DIO, com o objetivo de identificar habilidades pessoais que possuem valor de mercado e demonstrar, na prática, como elas podem ser aplicadas e monetizadas.
 
