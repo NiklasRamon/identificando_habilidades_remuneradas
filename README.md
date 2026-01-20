@@ -85,7 +85,7 @@ Como demonstração prática das habilidades identificadas, foi desenvolvido um 
 Os dados utilizados são **fictícios** e têm finalidade exclusivamente educacional e demonstrativa.
 
 ### Preview do Dashboard
-![Dashboard Power BI](assets/dashboard-powerbi.png)
+![Dashboard Power BI](assets/dashboard_powerbi.png)
 
 ---
 
